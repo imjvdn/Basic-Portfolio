@@ -50,19 +50,6 @@ a:hover {
 nav a:first-child {
   border-left: 0 none;
 }
-.footer {
-  background: white;
-  color: black;
-  height: 400px;
-  text-align: center;
-  margin-top: 200px;
-  margin-bottom: 0 auto;
-}
-.footer .footer-bottom {
-  background: white;
-  color: black;
-  height: 0 auto;
-}
 
 .main {
   margin-left:100px ;
@@ -269,6 +256,5 @@ input[type=submit]:hover {
   padding: 20px;
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: ;
-  margin-bottom: ;
+  margin-top:100px ;
 }
