@@ -65,7 +65,7 @@ nav a:first-child {
   line-height: 300px;
 }
 footer {
-  position: fixed;
+  position: bottom;
   bottom: 0;
 }
 .footer-distributed {
@@ -213,7 +213,7 @@ textarea {
   border-radius: 4px;
   box-sizing: border-box;
   margin-bottom: 16px;
-  resize: vertical;
+  resize: vertical \;;
 }
 
 input[type='submit'] {

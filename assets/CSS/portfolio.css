@@ -51,19 +51,6 @@ nav a:first-child {
   border-left: 0 none;
 }
 
-.main {
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 0 auto;
-  margin-bottom: 0 auto;
-  max-height: 350px;
-  background-color: #5a5a5a;
-  background-color: 100%;
-  color: white;
-  font-size: 38pt;
-  text-align: center;
-  line-height: 300px;
-}
 footer {
   position: bottom;
   bottom: 0;
@@ -75,7 +62,7 @@ footer {
   height: 235px;
   width: 100%;
   text-align: left;
-  font: bold 16px sans-serif;
+  font: bold 1px sans-serif;
   padding: 55px 50px;
   margin-top: 80px;
   margin-bottom: 0 fixed;
@@ -202,4 +189,7 @@ footer {
 
   margin-right: 3px;
   margin-bottom: 5px;
+}
+applications {
+  float: left;
 }
