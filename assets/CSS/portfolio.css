@@ -52,8 +52,8 @@ nav a:first-child {
 }
 
 .main {
-  margin-left:100px ;
-  margin-right:100px ;
+  margin-left: 100px;
+  margin-right: 100px;
   margin-top: 0 auto;
   margin-bottom: 0 auto;
   max-height: 350px;
@@ -94,7 +94,7 @@ footer {
 
 .footer-distributed h3 {
   color: #ffffff;
-  font: normal 36px "Courier New", Courier, monospace;
+  font: normal 36px 'Courier New', Courier, monospace;
   margin: 0;
 }
 
@@ -202,27 +202,4 @@ footer {
 
   margin-right: 3px;
   margin-bottom: 5px;
-}
-
-@media (max-width: 880px) {
-  .footer-distributed {
-    font: bold 14px sans-serif;
-  }
-
-  .footer-distributed .footer-left,
-  .footer-distributed .footer-center,
-  .footer-distributed .footer-right {
-    display: block;
-    width: 100%;
-    margin-bottom: 40px;
-    text-align: center;
-  }
-
-  .footer-distributed .footer-center i {
-    margin-left: 0;
-  }
-  .main {
-    line-height: normal;
-    font-size: auto;
-  }
 }
