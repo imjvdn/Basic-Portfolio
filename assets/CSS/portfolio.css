@@ -51,6 +51,8 @@ nav a:first-child {
   border-left: 0 none;
 }
 .stuff a {
+  margin-top: 100px;
+  margin-left: 172px;
   float: left;
 }
 
