@@ -11,6 +11,7 @@ header {
   height: 100px;
   width: 100%;
   background-color: rgb(255, 255, 255);
+  margin-bottom: 10px;
 }
 .container {
   height: 100px;
@@ -207,6 +208,13 @@ footer {
   margin-bottom: 5px;
 }
 h2 {
-  margin-top: 100px;
   margin-left: 210px;
+  margin-bottom: 30px;
+}
+img {
+  margin-left: 200px;
+}
+.paragraph {
+  margin-left: 40px;
+  margin-right: 40px;
 }

@@ -11,6 +11,7 @@ header {
   height: 100px;
   width: 100%;
   background-color: rgb(255, 255, 255);
+  margin-bottom: 50px;
 }
 .container {
   height: 100px;
@@ -52,7 +53,7 @@ nav a:first-child {
 }
 
 footer {
-  position: bottom;
+  position: fixed;
   bottom: 0;
 }
 .footer-distributed {
@@ -192,4 +193,10 @@ footer {
 }
 applications {
   float: left;
+}
+.video a {
+  margin-left: 420px;
+  margin-right: 420px;
+  margin-top: 300px;
+  margin-bottom: 1000px;
 }
