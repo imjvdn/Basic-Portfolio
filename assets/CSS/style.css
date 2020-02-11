@@ -200,3 +200,25 @@ applications {
   margin-top: 300px;
   margin-bottom: 1000px;
 }
+@media screen and (min-width: 320px) {
+  //your css class
+}
+@media screen and (min-width: 321px) and (max-width: 480px) {
+  //your css class
+}
+
+@media screen and (min-width: 481px) and (max-width: 720px) {
+  //your css class
+}
+
+@media screen and(min-width: 721px) and (max-width: 1080px) {
+  //your css class
+}
+
+@media screen and(min-width: 1080px) and (max-width: 1280px) {
+  //your css class
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1920px) {
+  //your css class
+}
